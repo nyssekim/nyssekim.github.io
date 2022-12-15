@@ -81,7 +81,7 @@ If you _do_ make a mess, use a towel to clean it up!
  a piece of text or how it is to be displayed. SGML emphasizes descriptive markup, in which a tag  
  might be <emphasis>. Such a markup denotes the document function, and it could be interpreted as  
  reverse video on a computer screen, underlining by a typewriter, or _italics_ in typeset text.  
- SGML is used to specify DTDs (document type definitions). 
+ SGML is used to specify **DTD**s (document type definitions). 
 
 ## Exercise 3
 [![Watch the video](https://img.youtube.com/vi/cvh0nX08nRw/default.jpg)](https://www.youtube.com/watch?v=cvh0nX08nRw)
